@@ -11,8 +11,8 @@
 </defs>
 
 <!-- BACKGROUND -->
-<rect width="900" height="2080" fill="#ffffff" rx="12"/>
-<rect width="900" height="2080" fill="none" stroke="#e5e2f0" stroke-width="1" rx="12"/>
+<rect width="900" height="1750" fill="#ffffff" rx="12"/>
+<rect width="900" height="1750" fill="none" stroke="#e5e2f0" stroke-width="1" rx="12"/>
 
 <!-- HEADER -->
 <rect x="0" y="0" width="900" height="86" fill="url(#header-bg)" rx="12"/>
