@@ -299,12 +299,4 @@
 
 <text x="810" y="1738" font-size="9.5" font-weight="600" fill="#60a5fa">2 Papers</text>
 <text x="810" y="1751" font-size="8" fill="#4a4a60" font-family="'Courier New',monospace">arXiv · PANAM</text>
-
-<!-- ════════════════════════════════════════════
-     FOOTER
-════════════════════════════════════════════ -->
-<rect x="20" y="1778" width="860" height="0.5" fill="#1e1e30"/>
-<text x="36" y="1800" font-size="9" fill="#3a3a55" font-family="'Courier New',monospace">github.com/AasthaPJoshi · linkedin.com/in/aasthajoshi14 · joshiaastha40@gmail.com · San Diego CA · Open to work 🇺🇸</text>
-<text x="36" y="1818" font-size="9" fill="#2a2a40" font-family="'Courier New',monospace">Depth scores calibrated against 2025–2026 JD research: Anthropic · OpenAI · Palantir · Scale AI · G-Research · dbt Labs · 1000+ postings analyzed</text>
-
 </svg>
