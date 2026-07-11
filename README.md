@@ -20,7 +20,7 @@
 <td width="40%" valign="middle" align="center">
 
 <img
-  src="src="./assets/Me.png""
+  src="src="assets/Me.png""
   width="340"
   alt="Aastha Pritesh Joshi — AI Engineer"
 />
@@ -35,7 +35,7 @@
 <td width="60%" valign="middle" align="center">
 
 <img
-  src="./assets/boutMe.png"
+  src="assets/boutMe.png"
   width="100%"
   alt="aastha@github:~$ whoami → AI Engineer • Data Strategist • Forward Deployed Builder"
 />
@@ -208,6 +208,8 @@
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## `🧠` Stack — By Layer
+
+<img src="assets/skills.html" width="100%" alt="Skill depth map" />
 
 <table width="100%" border="0">
 <tr><td>
