@@ -16,32 +16,41 @@
 -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="16">
-<tr>
-<td width="40%" valign="middle" align="center">
+  <tr>
+    <td width="40%" valign="middle" align="center">
 
-<img
-  src="src="assets/Me.png""
-  width="340"
-  alt="Aastha Pritesh Joshi — AI Engineer"
-/>
+      <img
+        src="./assets/Me.png"
+        width="340"
+        alt="Aastha Pritesh Joshi — AI Engineer"
+      />
 
-<br/><br/>
+      <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthajoshi14)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiaastha40@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AasthaPJoshi)
+      <a href="https://www.linkedin.com/in/aasthajoshi14">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
 
-</td>
-<td width="60%" valign="middle" align="center">
+      <a href="mailto:joshiaastha40@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
 
-<img
-  src="assets/boutMe.png"
-  width="100%"
-  alt="aastha@github:~$ whoami → AI Engineer • Data Strategist • Forward Deployed Builder"
-/>
+      <a href="https://github.com/AasthaPJoshi">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
 
-</td>
-</tr>
+    </td>
+
+    <td width="60%" valign="middle" align="center">
+
+      <img
+        src="./assets/AboutMe.png"
+        width="100%"
+        alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
+      />
+
+    </td>
+  </tr>
 </table>
 
 ---
