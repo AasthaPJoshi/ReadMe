@@ -18,16 +18,7 @@
 </defs>
 
 <!-- ── BACKGROUND ── -->
-<rect width="900" height="2000" fill="#0a0a0f" rx="12"/>
-
-<!-- ── HEADER ── -->
-<rect x="0" y="0" width="900" height="90" fill="url(#header-bg)" rx="12"/>
-<rect x="0" y="70" width="900" height="20" fill="#0a0a0f"/>
-<rect x="0" y="88" width="900" height="2" fill="#1e1e2e"/>
-
-<text x="36" y="38" font-size="20" font-weight="600" fill="#e8e6f0" letter-spacing="-0.4">Aastha Pritesh Joshi</text>
-<text x="36" y="58" font-size="10" fill="#6b6a7e" font-family="'Courier New',monospace">skill_depth_map.json — 2025–2026 JD-calibrated · production-verified · San Diego CA · Open to work 🇺🇸</text>
-<text x="36" y="78" font-size="9.5" fill="#4a4a60" font-family="'Courier New',monospace">Applied AI Engineer · Forward Deployed Eng · LLM Engineer · Data Analyst · Data Engineer · AI PM</text>
+<rect width="900" height="1500" fill="#0a0a0f" rx="12"/>
 
 <!-- ════════════════════════════════════════════
      SECTION: AI / LLM / AGENTS
