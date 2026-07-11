@@ -522,8 +522,6 @@
 
 </svg>
 
-<img width="900" height="2180" alt="skills" src="https://github.com/user-attachments/assets/02c83223-6f78-42f9-9590-d23727f2d872" />
-
 ---
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
