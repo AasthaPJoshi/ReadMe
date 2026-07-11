@@ -16,41 +16,42 @@
 -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="16">
-  <tr>
-    <td width="40%" valign="middle" align="center">
+<tr>
 
-      <img
-        src="./assets/Me.png"
-        width="340"
-        alt="Aastha Pritesh Joshi — AI Engineer"
-      />
+<td width="40%" valign="middle" align="center">
 
-      <br/><br/>
+<img
+  src="https://raw.githubusercontent.com/AasthaPJoshi/ReadMe/main/assets/Me.png"
+  width="340"
+  alt="Aastha Pritesh Joshi — AI Engineer"
+/>
 
-      <a href="https://www.linkedin.com/in/aasthajoshi14">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
+<br/><br/>
 
-      <a href="mailto:joshiaastha40@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
+<a href="https://www.linkedin.com/in/aasthajoshi14">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-      <a href="https://github.com/AasthaPJoshi">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
+<a href="mailto:joshiaastha40@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-    </td>
+<a href="https://github.com/AasthaPJoshi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-    <td width="60%" valign="middle" align="center">
+</td>
 
-      <img
-        src="./assets/AboutMe.png"
-        width="100%"
-        alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
-      />
+<td width="60%" valign="middle" align="center">
 
-    </td>
-  </tr>
+<img
+  src="https://raw.githubusercontent.com/AasthaPJoshi/ReadMe/main/assets/AboutMe.png"
+  width="100%"
+  alt="Aastha — AI Engineer, Data Strategist and Forward Deployed Builder"
+/>
+
+</td>
+</tr>
 </table>
 
 ---
