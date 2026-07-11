@@ -282,8 +282,7 @@ No pressure. But it genuinely means a lot.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aasthajoshi14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthajoshi14)
 [![GitHub](https://img.shields.io/badge/GitHub-AasthaPJoshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AasthaPJoshi)
-[![Email](https://img.shields.io/badge/Email-joshiaastha40%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshiaastha40@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/aasthajoshi)
+[![Email](https://img.shields.io/badge/Email-aasthajoshiswork%gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasthajoshiswork@gmail.com)
 
 </div>
 
