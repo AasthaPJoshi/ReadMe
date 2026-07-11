@@ -260,10 +260,8 @@ If you're building something real, let's talk.
  
 I bring production AI, research depth, and business thinking to the same table. If that's what your team needs — let's talk.
  
-<br/>
-[![Hire Me on LinkedIn](https://img.shields.io/badge/Hire_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthajoshi14)
- 
-
+<br/> 
+<a href="https://www.linkedin.com/in/aasthajoshi14"><img src="https://img.shields.io/badge/Hire_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me on LinkedIn"/></a>
 </td>
 </tr>
 </table>
@@ -278,7 +276,7 @@ I bring production AI, research depth, and business thinking to the same table. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aasthajoshi14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthajoshi14)
 [![GitHub](https://img.shields.io/badge/GitHub-AasthaPJoshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AasthaPJoshi)
-[![Email](https://img.shields.io/badge/Email-aasthajoshiswork%gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasthajoshiswork@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aasthajoshiswork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aasthajoshiswork@gmail.com)
 
 </div>
 
