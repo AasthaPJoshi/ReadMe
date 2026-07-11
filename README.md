@@ -255,18 +255,14 @@ If you're building something real, let's talk.
 
 <td width="50%" align="center" valign="middle" style="background:#1a1a1a;border-radius:12px;padding:20px;">
 
-### ☕ Buy Me a Coffee
-**If something I built helped you, saved you time, or sparked an idea —**
-
-A coffee keeps the pipelines running and the evals green. 🟢
-
-No pressure. But it genuinely means a lot.
-
+### 🚀 Hire Me
+**Open to Applied AI Engineer, Forward Deployed Engineer, LLM Engineer, Data Analyst, and AI PM roles in the US.**
+ 
+I bring production AI, research depth, and business thinking to the same table. If that's what your team needs — let's talk.
+ 
 <br/>
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/aasthajoshi)
-
-> ☝️ Set up your Buy Me a Coffee account at buymeacoffee.com and update this link
+[![Hire Me on LinkedIn](https://img.shields.io/badge/Hire_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aasthajoshi14)
+ 
 
 </td>
 </tr>
