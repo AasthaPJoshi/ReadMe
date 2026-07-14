@@ -31,6 +31,8 @@
   />
 </p>
 
+<img width="1215" height="488" alt="Screenshot 2026-07-14 at 1 22 28 AM" src="https://github.com/user-attachments/assets/424bb5c1-24c5-471f-9a0a-f9ba0d78da6f" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aasthajoshi14">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -44,6 +46,8 @@
 </p>
 
 <br/>
+
+
 
 <hr/>
 
